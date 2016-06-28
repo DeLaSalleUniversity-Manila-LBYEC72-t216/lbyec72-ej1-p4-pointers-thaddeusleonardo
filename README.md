@@ -1,1 +1,1 @@
-![][pointers.png]
+![](pointers.png)
